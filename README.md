@@ -31,7 +31,7 @@ Time > 0 ?
 <a   style="margin:10px" href="https://t.me/sorenabedi" target="_blank">
 <img height="40" width="40" src="https://sorenabedi.ir/images/social/tumblr.svg" />
 </a>
-<a   style="margin:10px" href="live:soren.abedi" target="_blank">
+<a   style="margin:10px" href="live://soren.abedi" target="_blank">
 <img height="40" width="40" src="https://sorenabedi.ir/images/social/skype.svg" />
 </a>
 <a  style="margin:10px"  href="https://fb.com/sorenabedi.ir" target="_blank">
