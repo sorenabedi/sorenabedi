@@ -6,7 +6,7 @@
 <h4>
     just returned to github ... long live Azure 
     <a style="margin:10px" href="https://dev.azure.com" target="_blank">
-        <img height="25" width="25" src="https://sorenabedi.ir/images/images/skillset/azure-devops.svg" />
+        <img height="25" width="25" src="https://sorenabedi.ir/images/skillset/azure-devops.svg" />
     </a>
 </h4>
 
