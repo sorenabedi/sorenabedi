@@ -3,7 +3,13 @@
 <h2>You reached my Github page!</h2>
 
 <h3>well, no public repositories ... yet! (working on it) 😅</h3>
-<h4>returning to github ... from Azure DevOps 😒</h4>
+<h4>just returned to github ... 🤫 </h4>
+
+
+<svg aria-hidden="true" role="presentation" data-slug-id="azure" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <polygon points="3.65 14.2 16 14.2 9.35 2.68 7.33 8.24 11.21 12.87 3.65 14.2"></polygon>
+    <polygon points="8.82 1.8 4.07 5.79 0 12.84 3.67 12.84 3.67 12.85 8.82 1.8"></polygon>
+</svg>
 
 
 ```js
