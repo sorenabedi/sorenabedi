@@ -58,7 +58,7 @@ Time > 0 ?
 <a   style="margin:10px" href="https://open.spotify.com/user/soren.abedi" target="_blank">
 <img height="40" width="40" src="https://sorenabedi.ir/images/social/spotify.svg" />
 </a>
-<a   style="margin:10px" href="https://www.linkedin.com/in/soren-abedi" target="_blank">
+<a   style="margin:10px" href="https://www.linkedin.com/in/sorenabedi" target="_blank">
 <img height="40" width="40" src="https://sorenabedi.ir/images/social/linkedin.svg" />
 </a>
 <hr style="width:75%;margin:25px auto;background-color:white""/>
